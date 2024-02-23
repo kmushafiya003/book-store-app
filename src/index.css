@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .body{
+.body{
     overflow-x: hidden;
-} */
+}
 
 .anime {
     border : none ;
