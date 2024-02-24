@@ -11,3 +11,5 @@ Different Book Sections: We're organizing the books into different groups, like 
 Customer Reviews: There's a special section where people can read what others have said about the books they've bought. It makes the website even more interesting and trustworthy.
 
 Dark Mode Functionality: Website isn't just visually appealing during the day; it's also easy on the eyes at night! With the Dark Mode feature, users can switch to a darker color scheme that's gentler on their eyes in low-light environments. This enhances accessibility and makes the website more comfortable to use, regardless of the time of day.
+
+By using React.js and Tailwind CSS,  the website works well on all devices, like phones and computers. This project is going to make the bookstore experience online really fun and enjoyable for everyone who visits!
