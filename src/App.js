@@ -33,7 +33,7 @@ function App() {
 
 
   return (
-    <div className="w-screen  overflow-x-hidden  bg-gray-100 dark:bg-gray-900 dark:text-white dark:transition-bg duration-500 flex flex-col ">
+    <div className=" overflow-x-hidden  bg-gray-100 dark:bg-gray-900 dark:text-white dark:transition-bg duration-500 flex flex-col ">
       <Navbar />
       <HeroSection />
       <BestBooksSection />

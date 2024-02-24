@@ -17,7 +17,7 @@ const BestBooksSection = () => {
   }
 
   return (
-    <div className="py-16 w-[100%] overflow-x-hidden" >
+    <div className="py-16 w-full" >
       {/* ------------- best book container ----------------- */}
 
       <div className="md:w-11/12 xs:w-[80%] w-[85%] mx-auto pl-4 flex flex-col gap-y-10" >

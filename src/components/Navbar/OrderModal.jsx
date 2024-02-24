@@ -47,7 +47,7 @@ const OrderModal = ({ isOpenModal, setIsOpenModal }) => {
   };
 
   return (
-    <div className="fixed inset-0 grid place-items-center z-[9999] backdrop-blur-sm h-screen overflow-y-hidden">
+    <div className="fixed inset-0 grid place-items-center z-[9999] backdrop-blur-sm">
       {/* ---------------- modal --------------- */}
 
       <div className="sm:w-[400px] xs:w-[370px] w-[300px] min-h-[300px] bg-offwhite dark:bg-gray-700 transition-all dark:transition-all duration-300 py-8 px-6 rounded-lg order-anime flex flex-col gap-y-8" ref={orderRef} onClick={(event)=> event.stopPropagation()}>
